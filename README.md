@@ -1,6 +1,6 @@
 # maskedProgressView
 ## maskedProgressView
-A custom progress view that lets the user easily present a progress view with masked image containing an alpha chanle (i.e PNG images). The progress view can be animated, can be customized foreground and background colors during animation.
+A custom progress view that lets the user easily present a progress view with masked image containing an alpha channel (i.e PNG images). The progress view can be animated, can be customized foreground and background colors during animation.
 
 ## Usage
 maskedProgressView can be setup by programmatically:
