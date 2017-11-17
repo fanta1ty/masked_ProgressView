@@ -6,8 +6,8 @@ A custom progress view that lets the user easily present a progress view with ma
 maskedProgressView can be setup by programmatically:
 ```objc
 let maskedImage = UIImage(named: "image.png")!
-let maskedProgressView = maskedProgressView(withFrame:progressViewReck, maskingImage: maskedImage)
-self.view.addSubview(maskedProgressView)
+let maskedProgressView = maskedProgressView(withFrame:progressViewRect, maskingImage: maskedImage)
+progressView.addSubview(maskedProgressView)
 ```
 
 maskedProgressView exposed the following methods that let the user customize color, progress and animation timing:
