@@ -19,7 +19,7 @@ maskedProgressView exposed the following methods that let the user customize col
 - func setAnimationTime(_ time: CGFloat)
 ```
 ## Demo
-
+![alt text](https://user-images.githubusercontent.com/8521676/32938818-04ad5eda-cbb0-11e7-809a-4dd2b5d5b9fc.PNG)
 
 ## Requirement
 'maskedProgressView' requires iOS 8.x or greater.
