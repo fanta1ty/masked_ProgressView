@@ -18,6 +18,8 @@ maskedProgressView exposed the following methods that let the user customize col
 - func setFrontColor(_ color: UIColor)
 - func setAnimationTime(_ time: CGFloat)
 ```
+## Demo
+
 
 ## Requirement
 'maskedProgressView' requires iOS 8.x or greater.
